@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    locomotive (0.0.1)
+      rack
+    rack (2.2.3)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  locomotive
+
+BUNDLED WITH
+   2.2.29
