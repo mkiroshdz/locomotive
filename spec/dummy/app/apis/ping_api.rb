@@ -1,5 +1,5 @@
 class PingApi < Locomotive::Api
   def index
-    'Pong!'
+    respond_with 'Pong', status: 200
   end
 end

@@ -1,3 +1,9 @@
+# TODO:
+# Object/Kernel - Add constantize method (Support)
+# String Camelize (Support)
+# Logger Implementation
+# Clean the middleware addition
+
 require 'pry'
 require 'locomotive'
 
